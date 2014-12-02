@@ -1,0 +1,1 @@
+12.1.14  PIC source Code and Header file. Still to be written, sendX10 function. Also need to determine oscillator for baud rate generator. RN41 .eli file uploaded.
